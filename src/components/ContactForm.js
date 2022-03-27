@@ -115,7 +115,7 @@ const ContactForm = () => {
                             </div>
                         </div>
                         <div className="my-14 absolute flex flex-col items-start">
-                            <button id="button" type="submit" className="border outline-none px-14 py-4 font-bold text-xl text-white shadow-md rounded-xl bg-green-800">Create Account</button>
+                            <button id="button" type="submit" className="border outline-none px-10 md:px-14 py-4 font-bold text-xl text-white shadow-md rounded-xl bg-green-800">Create Account</button>
                             <div className="my-3 font-bold text-base md:text-xl">Already have an account? <span className="text-green-800">Log in</span></div>
                         </div>
                     </form>
